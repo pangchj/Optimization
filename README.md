@@ -13,6 +13,6 @@ If you are looking for free serious optimization software in Python, you can try
 - PULP: https://coin-or.github.io/pulp/index.html
 
 
-I have background in nonlinear programming, but I haven't got interested in writing such codes yet.
+I have a background in nonlinear programming, but I haven't got interested in writing such codes yet.
 
 Any feedback is appreciated. :) 
