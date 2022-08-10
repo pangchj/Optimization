@@ -1,3 +1,9 @@
+####################################################################
+# Created by pangchj, hosted in github in pangchj/Optimization.    #
+# If this code has helped you, do show some appreciation.          #
+# Thank you!                                                       #
+####################################################################
+
 # This notebook programs the column generation technique in Chvatal's "Linear Programming" textbook. 
 # The correspondence between the variables in this program and in the textbook should be easy to 
 # figure.
