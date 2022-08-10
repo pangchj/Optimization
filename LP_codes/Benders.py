@@ -1,4 +1,10 @@
-# The nicest writeup of Bender's decomposition is in Leon Lasdon's book 
+####################################################################
+# Created by pangchj, hosted in github in pangchj/Optimization.    #
+# If this code has helped you, do show some appreciation.          #
+# Thank you!                                                       #
+####################################################################
+
+# The nicest writeup of Bender's decomposition I find is in Leon Lasdon's book 
 # "Optimization Theory for large systems", so we follow his notation.
 
 # WARNING: THE CASE WHERE THE SUBPROBLEM IS UNBOUNDED IS NOT ENCOUNTERED IN THIS 
