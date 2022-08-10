@@ -1,3 +1,9 @@
+####################################################################
+# Created by pangchj, hosted in github in pangchj/Optimization.    #
+# If this code has helped you, do show some appreciation.          #
+# Thank you!                                                       #
+####################################################################
+
 # We try to do cutting stock from the example in Chvatal's textbook. Please read the book for more details.
 
 import pulp as pl, numpy as np, math
